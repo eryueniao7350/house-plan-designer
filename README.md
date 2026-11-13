@@ -318,7 +318,7 @@ python scripts/furnoverlay.py spec.json --image 设计图.jpg --mm-per-px <k> --
 1. 把本仓库放进你的 Agent 的 skills 目录，例如 Claude Code：
 
    ```bash
-   git clone https://github.com/ZWD11/house-plan-designer ~/.claude/skills/house-plan-designer
+   git clone https://github.com/eryueniao7350/house-plan-designer ~/.claude/skills/house-plan-designer
    ```
 
    其他 Agent 放到各自约定的 skills 目录即可。
