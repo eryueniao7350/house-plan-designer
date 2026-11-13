@@ -29,4 +29,4 @@ npx playwright install chromium        # 装到 ~/.cache/ms-playwright，自动�
 
 ## 路径
 
-脚本都按相对 skill 目录找模板和参考文件，不依赖任何本机绝对路径。设计器源码仓库：<https://github.com/ZWD11/house-plan-designer>（模板由设计器项目 `npm run skill:sync` 打包进 `assets/template.html`）。
+脚本都按相对 skill 目录找模板和参考文件，不依赖任何本机绝对路径。设计器源码仓库：<https://github.com/eryueniao7350/house-plan-designer>（模板由设计器项目 `npm run skill:sync` 打包进 `assets/template.html`）。
