@@ -6,7 +6,7 @@ description: 把用户给的户型图（图片：房产平台 / 家装设计平�
 # 户型图 → 装修设计器网页
 
 产出一个单文件 HTML，双击离线打开：界面和功能就是完整的“户型装修设计器”，只是示例户型换成了用户这张图。
-模板 `assets/template.html` 由设计器项目打包而来（源码与本 skill 仓库：<https://github.com/ZWD11/house-plan-designer>），**不要改模板**。
+模板 `assets/template.html` 由设计器项目打包而来（源码与本 skill 仓库：<https://github.com/eryueniao7350/house-plan-designer>），**不要改模板**。
 你要做的只有一件事：写出准确的 **HouseSpec（户型描述 JSON）**，格式见 `reference/spec-format.md`（**动手前必读**）。
 
 ## 环境（首次）
